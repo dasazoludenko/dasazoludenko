@@ -1,0 +1,70 @@
+<html>
+    <head> 
+        <title>Українська кулінарія</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <header>
+            <img class="logo" src="https://st.depositphotos.com/1257064/1986/v/450/depositphotos_19860259-stock-illustration-borscht-soup-and-lard-with.jpg">
+            <h1 style="text-align:center;">Вітаємо вас в нашому ресторані "Українська кухня"
+            </h1>
+            <h2 style="text-align:center;">Наше кулінарне меню:</h2>
+            <nav class="nav">
+                <a class="nav__link" href="#section1">Український Борщ</a>
+                <a class="nav__link" href="#section2">Вареники з вишнею</a>
+                <a class="nav__link" href="#section3">Сало</a>
+                <a class="nav__link" href="#section4">Голубці</a>
+                <a class="nav__link" href="#section5">Деруни</a>
+                <a class="nav__link" href="#section6">Кутя</a>
+                <a class="nav__link" href="#section7">Пампушка</a>
+                <a class="nav__link" href="#section8">Узвар</a>
+                <a class="nav__link" href="#section9">Крученики</a>
+                <a class="nav__link" href="#section10">Ковбаса домашня</a>
+                <h1>in English/на Англійському.</h1>
+            <p>Good afternoon everyone, you can order Ukrainian cuisine here, or come to us! The address of our establishment is at the very end. Have a nice day!</p>
+            <h2>on Ukrainian/на Українській</h2>
+            <p>Всім доброго дня, ви можете замовити страви Української кухні тут, або приходьте до нас! Адреса нашого закладу вказана в самому кінці.Гарного дня!</p>
+            </nav>
+        </header>
+
+        <main>
+            <h1 class="title">ДОМАШНІ Українські страви</h1>
+            <h2 id="section1">Український Борщ</h2>
+            <img src="https://images.unian.net/photos/2020_04/thumb_files/1200_0_1588081977-7108.jpg"height="200px"/>
+            <p>Борщ — українська рідка страва, що вариться з посічених буряків, капусти з додатком картоплі, квасолі та різних приправ.</p>
+            <h2 id="section2">Вареники з вишнею</h2>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZcBSpdB3qFFJdk2lfzl0IlxR21pRoAekww&s"height="230px"/>
+            <p>Вареники з вишнею – традиційна українська страва. Вони дуже смачні та соковиті, адже завдяки вишні вони мають приємну кислинку та насичений аромат. Тісто для вареників готується на воді, сироватці або кефірі. Начинку роблять як зі свіжих ягід, з яких видалені кісточки, так із заморожених вишень.</p>
+            <h2 id="section3">Сало</h2>
+            <img src="https://telegraf.com.ua/static/storage/thumbs/928x522/2/60/df9fad02-193c509d4f33152b236b5f8a72cb5602.webp?v=6887_1"height="180px"/>
+            <p>Са́ло — тваринний підшкірний жир, найчастіше свинячий. Молоде́ сало — свіже, ще не дуже просолене сало. Старе́ сало — дуже просолене сало, що зберігається тривалий час. Нутряне (середо́ве́) сало відоме як здір, топлене яловиче чи бараняче сало називають лоєм.</p>
+            <h2 id="section4">Голубці</h2>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH3kTiMkg2_5ztxqKqbYfL1tJceiyJxQCvg&s"height="200px"/>
+            <p>Страва готується з листя свіжої чи кислої капусти та начинки з м'яса, рису чи гречки, кукурудзяних чи пшоняних круп, картоплі, квасолі, грибів, цибулі, моркви та прянощів.</p>
+            <h2 id="section5">Деруни</h2>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUUquJqDqViTZH6Fh71uofbPS7hONMRf-AA&s"height="200px"/>
+            <p>Єдиним абсолютно необхідним компонентом дерунів є терта картопля. Інші інгредієнти додаються згідно з традицією в конкретному регіоні, чи домашнім рецептом, що передається з покоління в покоління. Такими інгредієнтами є: ріпчаста цибуля, борошно, часник, яйця, сіль.</p>
+            <h2 id="section6">Кутя</h2>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB24bQRxYyzrM5ZbCVk5CUbdIbgHORldOwA&s"height="200px"/>
+            <p>Щоб зварити кутю, знадобляться півлітровий слоїк пшениці, по склянці маку, цукру, подрібнених горіхів і родзинок, 2–3 столові ложки меду.</p>
+            <h2 id="section7">Пампушка</h2>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqb2k_LhouDF1uuOEDBWYHZFedHwnxeu-DxA&s"height="180px"/>
+            <p>Пампушка — невелика кругла пишна булочка, виготовлена з дріжджового тіста з житнього, пшеничного, гречаного чи змішаного борошна.</p>
+            <h2 id="section8">Узвар</h2>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfRILAiZ30s1OX2g_k6U8LRxXazMCdkq7qw&s"height="200px"/>
+            <p>Узвар — солодкий напій в українській кухні. Його готують із сушених фруктів — яблук, груш, вишень, слив, родзинок, а також зі свіжих фруктів і ягід.</p>
+            <h2 id="section9">Крученики</h2> 
+            <img src="https://shuba.life/static/content/thumbs/1905x884/9/d8/wwz7me---c1905x884x50px50p-up--f7185c3445a2c40f7b7481b15ae31d89.jpg"height="170px"/>
+            <p>Крученики: зі свинини, фаршировані грибами; з гречкою; по-житомирські; волинські; курячі з грибною начинкою; з печінкою; рибні по-київськи; зі щуки; Завиванці: із м'яса свинячої голови; зі свинячої грудинки; із поросяти </p>
+            <h2 id="section10">Ковбаса домашня</h2>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilW1ZBWdbNxt4728DOltR1pBUcMZui6xaRg&s"height="200px"/>
+            <p>Сировиною служать солені свинячі голови, субпродукти 2 категорії, шкірка, солене м'ясо та кров іноді додається гречка чи перлова крупа. Кров'яні ковбаси вищого ґатунку — Домашня, 1 — Селянська. 2 — кров'яна вуджена, 3 — кров'яна варена.</p>
+
+        </main>
+        
+        <footer>Голодні?Проголодалися?Заказуйте в нашому ресторані Українські страви!
+            Звоніть за номером:+3809722002652 / +380985064664 / +380972413915.
+            Адреса закладу:Марії приймаченко 25.Чекаємо на вас! </footer>
+    </body>
+</html>
+        
